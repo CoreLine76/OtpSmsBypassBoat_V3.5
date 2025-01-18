@@ -42,15 +42,15 @@ Supported Services:
 🤑 Robinhood                
 🤑 Snapchat                 
 🤑 Steam  
-🤑 TrendyoL
-🤑 Troy Store
-🤑 Wells  
-🤑 Twitter  
-🤑 Venmo  
-🤑 All Crypto Exchanges
-🤑 All Digital Wallets
-🤑 All Shopping Systems
-🤑 All World Banks - Bypass 3D Secure
+🤑 TrendyoL             
+🤑 Troy Store                  
+🤑 Wells               
+🤑 Twitter         
+🤑 Venmo            
+🤑 All Crypto Exchanges          
+🤑 All Digital Wallets              
+🤑 All Shopping Systems                   
+🤑 All World Banks - Bypass 3D Secure                
 
 💥1 Month Purchase 🪙 100 🪙USD 💥
 
