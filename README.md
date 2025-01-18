@@ -1,12 +1,21 @@
 # OtpSmsBypassBoat_V3.5
+
 💥 OTP BYPASS and SMS Bot V.3.5 💥
+
 👨‍👨‍👦‍Otps Sms Bypass Bot V3.5 Telegram Boat.👨‍👨‍👦‍
+
 👨‍👨‍👦‍Please only those who will buy can contact us. There is absolutely no free installation.👨‍👨‍👦‍
+
 👨‍👨‍👦‍Written for Pentest Purpose.👨‍👨‍👦‍
+
 👘Contact: https://t.me/CoreTheLine
+
 All User Commands:
+
 👨‍👨‍👦‍/call tonumber service otplength VictimName  
+
 👨‍👨‍👦‍Example: /call 33612345678 Banque 8 John Doe  
+
 👨‍👨‍👦‍Send a call to a specific phone number with the service you want and ask for an OTP code. Supports 5, 6, or 8-digit codes and all world languages.
 
 Supported Services:
