@@ -30,17 +30,17 @@ Supported Services:
 🤑 Coinbase  
 🤑 Crypto  
 🤑 Facebook  
-🤑 Gemini 
-🤑 Google Pay 
-🤑 Instagram  
-🤑 Moneygram 
-🤑 Papara  
-🤑 Param 
-🤑 Payone 
-🤑 Paypal  
-🤑 Paxful 
-🤑 Robinhood  
-🤑 Snapchat  
+🤑 Gemini         
+🤑 Google Pay               
+🤑 Instagram                
+🤑 Moneygram                    
+🤑 Papara                
+🤑 Param                 
+🤑 Payone               
+🤑 Paypal              
+🤑 Paxful              
+🤑 Robinhood                
+🤑 Snapchat                 
 🤑 Steam  
 🤑 TrendyoL
 🤑 Troy Store
