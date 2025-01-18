@@ -21,8 +21,8 @@ All User Commands:
 Supported Services:
 
 🤑 Amazon  
-🤑 AppLe Pay 
-🤑 Binance  
+🤑 AppLe Pay          
+🤑 Binance                  
 🤑 Call-done  
 🤑 Chase  
 🤑 Cashapp  
