@@ -19,6 +19,7 @@ All User Commands:
 👨‍👨‍👦‍Send a call to a specific phone number with the service you want and ask for an OTP code. Supports 5, 6, or 8-digit codes and all world languages.
 
 Supported Services:
+
 🤑 Amazon  
 🤑 AppLe Pay 
 🤑 Binance  
