@@ -52,7 +52,6 @@ Supported Services:
 🤑 All Shopping Systems                   
 🤑 All World Banks - Bypass 3D Secure                
 
-💥1 Month Purchase 🪙 100 🪙USD 💥
 
 💥6 Month Purchase 🪙 500 🪙USD💥
 
